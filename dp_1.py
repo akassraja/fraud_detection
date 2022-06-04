@@ -7,4 +7,7 @@ def add(a,b):
     c=a+b
     return(c)
 
-add(a,b)
+def multiplication(a,b):
+    d=a*b
+    return(d)
+print("Multiplication Function")
